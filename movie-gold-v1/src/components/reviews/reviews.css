@@ -1,0 +1,13 @@
+.reviews-container {
+    margin-top: 20px;
+}
+
+.reviews-list {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0;
+}
+
+.review-item {
+    padding: 10px;
+    border-bottom: 1px solid #bc7c06;
+}
